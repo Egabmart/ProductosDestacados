@@ -1,0 +1,11 @@
+¿Qué ajustes hiciste con DevTools y cómo mejoraron el diseño?
+
+Usando la herramienta DevTools trabje en que la pagina fuera responsiva en diferentes tipos de pantallas, ya que tiene
+una funcion para ver como se veria la pagina web en diferentes pantallas sean de ordenador o moviles. Implemente flexbox ya
+que creo que era necesario para ajustar el diseño a diferentes pantallas. Y despues tambien experimente con diferentes colores
+para el body y el product-card.
+
+¿Cómo refleja tu diseño un enfoque comercial efectivo?
+
+Creo que tiene un enfoque comercial efectivo ya que el diseño de la paguna web es bien sencillo, y ocupa colores que siento que
+son elegantes, y hacen que resalte la ropa en las fotos. 
